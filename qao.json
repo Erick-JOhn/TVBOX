@@ -1,6 +1,6 @@
 //感谢各位大佬分享~所有东西都来自网上，只为个人学习使用。
 {
-"spider":"https://github.com/Erick-JOhn/TVBOX/blob/764d5d30cbf97ba03f8a868c84639e3f009f4f15/bc.jar",
+"spider":"https://github.com/Erick-JOhn/TVBOX/blob/main/bc.jar?raw=true",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3N1bm55L1RWQk9YL3Jhdy9icmFuY2gvbWFzdGVyL3R2L3htLnR4dA=="]}]}],
 
 "sites":[
